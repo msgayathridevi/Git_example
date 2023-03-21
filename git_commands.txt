@@ -20,3 +20,5 @@ git clone https://github.com/msgayathridevi/Git_tutorials.git
 # from the cloned new directory, we can push commits to github as well; same cmds.
 
 # pull in the same old local folder/repo to update files from that dir, else in the new cloned only u can update.
+
+git commit -a --allow-empty-message -m ''
