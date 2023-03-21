@@ -1,2 +1,20 @@
-Basic commands on git:-
+Basic commands on git to push files to github:-
 
+git init
+dir
+git config --global user.name
+git config --global user.email
+git add .\README.md
+git commit -m "This is First Commit"
+git branch
+git branch -M main
+git branch 
+git remove -v
+git status
+git restore .\README.md
+git status
+git add .
+git commit -m "This is second commit"
+
+git clone https://github.com/msgayathridevi/Git_tutorials.git
+# from the cloned new directory, we can push commits to github as well; same cmds.
